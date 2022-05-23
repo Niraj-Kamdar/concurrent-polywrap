@@ -1,0 +1,3 @@
+#import { Query } into Interface from "w3://ens/concurent-interface.eth"
+
+type Query implements Interface_Query {}

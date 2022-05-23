@@ -1,0 +1,3 @@
+#import { Mutation } into Interface from "w3://ens/concurent-interface.eth"
+
+type Mutation implements Interface_Mutation {}
